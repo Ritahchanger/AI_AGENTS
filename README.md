@@ -2,7 +2,7 @@
 
 A complete resource for understanding, building, and deploying AI agents powered by Large Language Models (LLMs). This repository covers everything from foundational concepts to advanced multi-agent systems and real-world implementations.
 
-## 📚 Repository Structure
+## Repository Structure
 
 ```mermaid
 graph TB
@@ -78,7 +78,7 @@ graph TB
     K --> K4[Resources]
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Basic understanding of Python programming
@@ -246,7 +246,7 @@ AI agents are being used across various domains:
 - **Data Analysis**: ETL processes, report generation, insights
 - **Automation**: Workflow orchestration, task management
 
-## 📚 Recommended Reading Path
+## Recommended Reading Path
 
 **For Beginners:**
 ```
